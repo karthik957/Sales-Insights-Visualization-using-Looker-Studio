@@ -1,10 +1,10 @@
 # Sales-Analysis-Dashboard
 This **Sales Analysis Dashboard** provides clear insights into total sales, orders, units sold, and product performance. The dashboard uses interactive charts and filters to help users understand sales trends across products, categories, and states.
 
-## Objective
+# Objective
 The goal of this dashboard is to help businesses quickly understand their sales performance. It gives an easy view of key metrics such as total sales, order volume, units sold, and average order value. It also breaks down sales by product, category, and state to support better decision-making.
 
-## Key Features
+# Key Features
 Sales Summary
 
 # Shows main sales KPIs:
@@ -36,7 +36,7 @@ Includes controls to filter the dashboard by:
 - Product Category
 - State
 
-## Key Performance Indicators (KPIs)
+# Key Performance Indicators (KPIs)
 - Total Sales – Overall revenue generated
 - Orders – Number of customer purchases
 - Units Sold – Total quantity sold
